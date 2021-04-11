@@ -1,0 +1,33 @@
+{
+  "skills": [
+    { "id": "cryptography", "name": "Cryptography" },
+    { "id": "haskell-language", "name": "Haskell" },
+    { "id": "typescript-language", "name": "TypeScript" },
+    { "id": "javascript-language", "name": "JavaScript" },
+    { "id": "python-language", "name": "Python" },
+    { "id": "html", "name": "HTML" },
+    { "id": "css", "name": "CSS" },
+    { "id": "php-language", "name": "PHP" },
+    { "id": "go-language", "name": "Go" },        
+    { "id": "rust-language", "name": "Rust" },
+    { "id": "c++-language", "name": "C++" },
+    { "id": "c-language", "name": "C" },
+    { "id": "c#-language", "name": "C#" },
+    { "id": "f#-language", "name": "F#" },
+    { "id": "plutus-smart-contract-language", "name": "Plutus" },
+    { "id": "ruby-language", "name": "Ruby" },
+    { "id": "objective-c-language", "name": "Objective C" },
+    { "id": "java-language", "name": "Java" },
+    { "id": "solidity-smart-contract-language", "name": "Solidity" },
+    { "id": "swift-language", "name": "Swift" },    
+    { "id": "kotlin-language", "name": "Kotlin" },
+    { "id": "r-language", "name": "R" },
+    { "id": "clojure-language", "name": "Clojure" },
+    { "id": "graphql", "name": "GraphQL" },
+    { "id": "node-js", "name": "Node JS" },
+    { "id": "react-js-framework", "name": "React JS" },
+    { "id": "angular-js-framework", "name": "Angular JS" },
+    { "id": "vue-js-framework", "name": "Vue JS" },
+    { "id": "django-framework", "name": "Django" }
+  ]
+}

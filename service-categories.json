@@ -1,0 +1,41 @@
+{
+  "service-categories": [
+    { "category": "engineering-and-mathematics", "service": "mobile-development" },
+    { "category": "engineering-and-mathematics", "service": "blockchain-development" },
+    { "category": "engineering-and-mathematics", "service": "smart-contract-development" },
+    { "category": "engineering-and-mathematics", "service": "desktop-application-development" },
+    { "category": "engineering-and-mathematics", "service": "web-development" },
+    { "category": "engineering-and-mathematics", "service": "cryptography" },
+    { "category": "engineering-and-mathematics", "service": "technical-writing" },
+
+    { "category": "design-and-product", "service": "user-experience-design" },
+    { "category": "design-and-product", "service": "user-interface-design" },
+    { "category": "design-and-product", "service": "brand-design" },
+    { "category": "design-and-product", "service": "product-management" },
+
+    { "category": "marketing", "service": "content-writing" },
+    { "category": "marketing", "service": "content-marketing" },
+    { "category": "marketing", "service": "social-media-marketing" },
+    { "category": "marketing", "service": "paid-search-marketing" },
+    { "category": "marketing", "service": "search-engine-optimisation-marketing" },
+    { "category": "marketing", "service": "video-marketing" },
+    { "category": "marketing", "service": "email-marketing" },
+    { "category": "marketing", "service": "influencer-marketing" },
+    { "category": "marketing", "service": "podcast-marketing" },
+
+    { "category": "audio-and-video", "service": "video-production" },
+    { "category": "audio-and-video", "service": "audio-production" },
+
+    { "category": "business-and-management", "service": "market-research" },
+    { "category": "business-and-management", "service": "business-development" },
+    { "category": "business-and-management", "service": "business-strategy" },
+    { "category": "business-and-management", "service": "business-management" },
+    { "category": "business-and-management", "service": "community-management" },
+
+    { "category": "finance", "service": "financial-analysis" },
+    { "category": "finance", "service": "accounting" },
+    { "category": "finance", "service": "business-tax-preparation" },
+    { "category": "finance", "service": "budgeting-and-forecasting" },
+    { "category": "finance", "service": "crowdfunding" }
+  ]
+}
