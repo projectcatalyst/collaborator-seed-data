@@ -1,10 +1,8 @@
-{
-  "categories": [
-    { "id": "engineering-and-maethematics", "name": "Engineering & Mathematics" },
-    { "id": "design-and-product", "name": "Design & Product" },
-    { "id": "marketing", "name": "Marketing" },
-    { "id": "audio-and-video", "name": "Audio & Video" },
-    { "id": "business-and-management", "name": "Business & Management" },
-    { "id": "finance", "name": "Finance" }
-  ]
-}
+[
+  { "id": "engineering-and-mathematics", "name": "Engineering & Mathematics" },
+  { "id": "design-and-product", "name": "Design & Product" },
+  { "id": "marketing", "name": "Marketing" },
+  { "id": "audio-and-video", "name": "Audio & Video" },
+  { "id": "business-and-management", "name": "Business & Management" },
+  { "id": "finance", "name": "Finance" }
+]
