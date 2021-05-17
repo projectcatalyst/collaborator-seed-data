@@ -20,7 +20,6 @@
   { "id": "solidity", "name": "Solidity" },
   { "id": "swift", "name": "Swift" },
   { "id": "kotlin", "name": "Kotlin" },
-  { "id": "r", "name": "R" },
   { "id": "clojure", "name": "Clojure" },
   { "id": "graphql", "name": "GraphQL" },
   { "id": "node-js", "name": "Node JS" },

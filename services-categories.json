@@ -4,8 +4,8 @@
   { "category": "engineering-and-mathematics", "service": "smart-contract-development" },
   { "category": "engineering-and-mathematics", "service": "desktop-application-development" },
   { "category": "engineering-and-mathematics", "service": "web-development" },
-  { "category": "engineering-and-mathematics", "service": "cryptography" },
-  { "category": "engineering-and-mathematics", "service": "technical-writing" },
+  { "category": "engineering-and-mathematics", "service": "machine-learning" },
+  { "category": "engineering-and-mathematics", "service": "data-science" },
 
   { "category": "design-and-product", "service": "user-experience-design" },
   { "category": "design-and-product", "service": "user-interface-design" },
@@ -21,19 +21,16 @@
   { "category": "marketing", "service": "email-marketing" },
   { "category": "marketing", "service": "influencer-marketing" },
   { "category": "marketing", "service": "podcast-marketing" },
+  { "category": "marketing", "service": "crowdfunding" },
 
   { "category": "audio-and-video", "service": "video-production" },
   { "category": "audio-and-video", "service": "audio-production" },
 
   { "category": "business-and-management", "service": "market-research" },
-  { "category": "business-and-management", "service": "business-development" },
-  { "category": "business-and-management", "service": "business-strategy" },
-  { "category": "business-and-management", "service": "business-management" },
+  { "category": "business-and-management", "service": "project-management" },
   { "category": "business-and-management", "service": "community-management" },
 
   { "category": "finance", "service": "financial-analysis" },
   { "category": "finance", "service": "accounting" },
-  { "category": "finance", "service": "business-tax-preparation" },
-  { "category": "finance", "service": "budgeting-and-forecasting" },
-  { "category": "finance", "service": "crowdfunding" }
+  { "category": "finance", "service": "tax-preparation" }
 ]

@@ -4,8 +4,8 @@
   { "id": "smart-contract-development", "name": "Smart Contract Development" },
   { "id": "desktop-application-development", "name": "Desktop Application Development" },
   { "id": "web-development", "name": "Web Development" },
-  { "id": "cryptography", "name": "Cryptography" },
-  { "id": "technical-writing", "name": "Technical Writing" },
+  { "id": "machine-learning", "name": "Machine Learning" },
+  { "id": "data-science", "name": "Data Science" },
 
   { "id": "user-experience-design", "name": "UX Design" },
   { "id": "user-interface-design", "name": "UI Design" },
@@ -21,19 +21,16 @@
   { "id": "email-marketing", "name": "Email Marketing" },
   { "id": "influencer-marketing", "name": "Influencer Marketing" },
   { "id": "podcast-marketing", "name": "Podcast Marketing" },
+  { "id": "crowdfunding", "name": "Crowdfunding" },
 
   { "id": "video-production", "name": "Video Production" },
   { "id": "audio-production", "name": "Audio Production" },
 
   { "id": "market-research", "name": "Market Research" },
-  { "id": "business-development", "name": "Business Development" },
-  { "id": "business-strategy", "name": "Business Strategy" },
-  { "id": "business-management", "name": "Business Management" },
+  { "id": "project-management", "name": "Project Management" },
   { "id": "community-management", "name": "Community Management" },
 
   { "id": "financial-analysis", "name": "Financial Analysis" },
   { "id": "accounting", "name": "Accounting" },
-  { "id": "business-tax-preparation", "name": "Business Tax Preparation" },
-  { "id": "budgeting-and-forecasting", "name": "Budgeting And Forecasting" },
-  { "id": "crowdfunding", "name": "Crowdfunding" }
+  { "id": "tax-preparation", "name": "Tax Preparation" }
 ]
